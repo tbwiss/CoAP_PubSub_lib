@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: org.eclipse.californium.core.test.lockstep.ObserveServerSideTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.678 sec - in org.eclipse.californium.core.test.lockstep.ObserveServerSideTest
